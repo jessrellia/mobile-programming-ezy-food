@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EzyFood</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="drinks_menu">Drinks</string>
+    <string name="foods_menu">Foods</string>
+    <string name="snacks_menu">Snacks</string>
+    <string name="topUp_menu">Top Up</string>
+    <string name="my_order">My Order</string>
+    <string name="order_more">Order More</string>
+    <string name="quantity">Qty: </string>
+    <string name="rupiah">Rp. </string>
+    <string name="order">Order</string>
+    <string name="delete">Delete</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="complete">Your Order is Completed.</string>
+    <string name="thanks">Thank You.</string>
+    <string name="total">Total: </string>
+</resources>
